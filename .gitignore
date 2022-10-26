@@ -1,0 +1,14 @@
+*.iml
+.idea
+out
+target
+.gradle
+
+# Project exclude paths
+/api/build/
+/api/build/classes/java/main/
+/build/
+/db/build/
+/db/build/classes/java/main/
+/service/build/
+/service/build/classes/java/main/
